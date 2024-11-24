@@ -30,3 +30,8 @@ wurde hier so gelöst, dass die Zeichen sich in den ersten acht Zeilen
 der Grafik befinden; diese werden gar nicht angezeigt - wenn man genau
 hinguckt sieht man, dass der obere Rahmen etwas dicker ist, als der
 untere.
+
+## Hinweis
+
+Dieses Programm funktioniert nur mit PAL-VIC. Bei einem NTSC-VIC
+müssten geringfügige Änderungen am Timing vorgenommen werden.
